@@ -1,0 +1,27 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deck.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belshire/blackjack.git"
+  },
+  "author": "Blake Elshire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belshire/blackjack/issues"
+  },
+  "homepage": "https://github.com/belshire/blackjack#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.4",
+    "@babel/plugin-transform-modules-commonjs": "^7.15.4",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0"
+  }
+}
